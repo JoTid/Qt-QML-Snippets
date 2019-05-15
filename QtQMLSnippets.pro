@@ -18,4 +18,5 @@ TEMPLATE = subdirs
 # The order in which the directories are specified is also the order in
 # which the corresponding projects are created.
 #
-SUBDIRS  = ./QmlCppDataExchange
+SUBDIRS  = ./QmlCppDataExchange  \
+           ./QmlCppJsDataExchange

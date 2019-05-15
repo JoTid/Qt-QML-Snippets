@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QmlCppJsDataExchange">
+        <file>application.qml</file>
+        <file>file_include.js</file>
+    </qresource>
+</RCC>
